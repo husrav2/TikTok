@@ -4,6 +4,6 @@ describe('sample render test', () => {
   });
 
   it('displays the title text', () => {
-    cy.get('h1').contains('CHo kadi ? Tenji brat ?');
+    cy.get('h1').contains('Cho kadi ? Tenji brat ?');
   });
 });
